@@ -1,7 +1,7 @@
 # CV Parser using AI
 
 *Developed by [@cristina-marina1407](https://github.com/cristina-marina1407) 
-and [@catalinamanolache](https://github.com/catalinamanolache)*
+and [@catalinamanolache](https://github.com/catalinamanolache) and [@rarescb](https://github.com/rarescb)*
 
 This project was developed during the final hackathon of the Azure AI 
 Summer School.
